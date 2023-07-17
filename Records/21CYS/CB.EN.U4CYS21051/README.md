@@ -526,4 +526,32 @@ public class PortScannerFrame extends JFrame {
 
 ### Demo
 
- ![image]()
+ <img width="479" alt="MainFrame" src="https://github.com/ronin7823/20CYS383-Java-Programming-Lab/assets/113102189/0d0ed286-ea62-460f-bc1e-dd36b93b9914">
+
+ ### Subdomain Finder
+
+ <img width="458" alt="SubDomain" src="https://github.com/ronin7823/20CYS383-Java-Programming-Lab/assets/113102189/666d94a3-7f2a-4546-8b62-34fbd85716af">
+
+ #### Results
+
+ <img width="458" alt="SubDomainResults" src="https://github.com/ronin7823/20CYS383-Java-Programming-Lab/assets/113102189/453b3582-cc03-48bd-ad3a-45b7709cedf6">
+
+ ### Link Scrper
+
+ <img width="579" alt="LinkScraper" src="https://github.com/ronin7823/20CYS383-Java-Programming-Lab/assets/113102189/58dcac40-031f-46db-8a03-a218e68e809d">
+
+ #### Results
+
+ <img width="900" alt="LinkScraperResults" src="https://github.com/ronin7823/20CYS383-Java-Programming-Lab/assets/113102189/3a5360ca-4433-43fa-ac81-9544a86b95e6">
+
+ ### Port Scanner
+
+ <img width="479" alt="PortScanner" src="https://github.com/ronin7823/20CYS383-Java-Programming-Lab/assets/113102189/e202e210-f31b-445b-a992-1d7316be02a1">
+
+#### Results
+
+<img width="765" alt="PortScannerResults" src="https://github.com/ronin7823/20CYS383-Java-Programming-Lab/assets/113102189/82409204-8fd0-4515-bb12-91a179165c50">
+
+### Download Results
+
+<img width="572" alt="DownloadResults" src="https://github.com/ronin7823/20CYS383-Java-Programming-Lab/assets/113102189/535638de-10ec-4161-bfed-023a7ea10e5c">
