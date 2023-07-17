@@ -1,8 +1,6 @@
 # 20CYS383 Java Programming Lab
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue)
 
-![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue)
-
  
 
 ## Recon Tool
@@ -524,10 +522,3 @@ public class PortScannerFrame extends JFrame {
 ### Demo
 
  ![image]()
-
-
-#### Screenshots
-
-<img src="" width="300" height="450">
-&nbsp &nbsp &nbsp
-<img src="" width="300" height="450">
